@@ -1,3 +1,3 @@
 #forkify Project
 
-Recipe App with custom recipe uploads
+Recipe App with custom recipe uploads!
